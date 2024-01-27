@@ -6,8 +6,8 @@
 													sufix(sfx), name(n), prefix(pfx) {
 		if(name.empty())
 			return;
+
 		std::cout << '\n';
-		
 		std::cout << "-----------"<<name<<"-----------"; 
 		std::cout << '\n';
 		
